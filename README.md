@@ -1,2 +1,2 @@
-# typora-img
-图床
+# image-storage
+
